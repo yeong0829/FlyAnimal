@@ -39,3 +39,4 @@ PtythonProject - Fly Animal(점프게임)
   <img src="https://user-images.githubusercontent.com/81658826/144744376-8a920594-34a6-4691-85f1-8bcef5c686e3.png"><br>
   <br>replay button<br>
   <img src="https://user-images.githubusercontent.com/81658826/144744389-c997a39e-140e-4de7-9aae-4d715e913446.png">
+
