@@ -20,7 +20,6 @@ PtythonProject - Fly Animal(점프게임)
   소리는 배경음악, 점프소리, 죽을 때 소리가 있습니다.<br>  
   #
   
-
 - 사용된 이미지<br>
   logo(로고)<br>
   <img src="https://user-images.githubusercontent.com/81658826/144744246-cd59c9fb-ce03-4b4f-97f2-f6b0686047c1.png" width="300"><br>
