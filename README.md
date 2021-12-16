@@ -1,5 +1,5 @@
-# FlyAnimal 🦊
-PtythonProject - Fly Animal(점프게임)
+# Fly Animal 🦊
+    PtythonProject - Fly Animal(점프게임)
 
 - 기능<br>
   게임 시작 화면<br>
